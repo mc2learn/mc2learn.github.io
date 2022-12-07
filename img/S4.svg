@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="305px" height="186px" viewBox="0 0 305 186" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Screenshot #4: Layout</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="248" height="154" rx="11"></rect>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <ellipse id="path-4" cx="62.4051724" cy="62.4920635" rx="62.4051724" ry="62.4920635"></ellipse>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-395.000000, -1809.000000)" id="Row-2">
+            <g transform="translate(1.000000, 931.000000)">
+                <g id="Screenshot-#4:-Layout" transform="translate(394.000000, 878.000000)">
+                    <g id="Screenshot" transform="translate(56.000000, 32.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                        <g id="Nodes-&amp;-Lines" mask="url(#mask-2)">
+                            <g transform="translate(16.000000, -4.000000)">
+                                <path d="M13.4864865,125.466667 L48.5135135,110.533333" id="Line-20" stroke="#979797" stroke-width="1" fill="none" stroke-linecap="square"></path>
+                                <path d="M82.5213675,174.507812 L67.4444444,147.4375" id="Line-21" stroke="#979797" stroke-width="1" fill="none" stroke-linecap="square"></path>
+                                <path d="M64.5,141.5 L55.5,116.5" id="Line-22" stroke="#979797" stroke-width="1" fill="none" stroke-linecap="square"></path>
+                                <path d="M103.428571,160.554054 L114.510204,128.497401" id="Line-23" stroke="#979797" stroke-width="1" fill="none" stroke-linecap="square"></path>
+                                <path d="M156.5,131.565789 L154,99.4663743" id="Line-24" stroke="#979797" stroke-width="0.5" fill="none" stroke-linecap="square"></path>
+                                <path d="M6.44247788,130.441176 L105.504036,159.511555" id="Line-19" stroke="#979797" stroke-width="1" fill="none" stroke-linecap="square"></path>
+                                <path d="M50.4705882,206.5 L65.5294118,152.5" id="Line-17" stroke="#979797" stroke-width="0.5" fill="none" stroke-linecap="square"></path>
+                                <path d="M82.5,10.5 L129.5,73.5" id="Line-16" stroke="#979797" stroke-width="0.5" fill="none" stroke-linecap="square"></path>
+                                <path d="M79,12.4912281 L79,67.5087719" id="Line-15" stroke="#979797" stroke-width="0.5" fill="none" stroke-linecap="square"></path>
+                                <path d="M36.4888889,70.5 L79.5111111,7.5" id="Line-14" stroke="#979797" stroke-width="0.5" fill="none" stroke-linecap="square"></path>
+                                <path d="M41.5,74.5 L74.5,70.5" id="Line-13" stroke="#979797" stroke-width="0.5" fill="none" stroke-linecap="square"></path>
+                                <path d="M41.4901961,79.5294118 L90.5098039,96.4705882" id="Line-12" stroke="#979797" stroke-width="0.5" fill="none" stroke-linecap="square"></path>
+                                <path d="M115.425987,119.590909 L151.513158,99.5" id="Line" stroke="#D8D8D8" stroke-width="1" fill="none" stroke-linecap="square"></path>
+                                <path d="M36.4277778,155.600649 L79.5111111,115.488095" id="Line-Copy-2" stroke="#D8D8D8" stroke-width="1" fill="none" stroke-linecap="square"></path>
+                                <path d="M61.5,111.5 L108.5,121.5" id="Line-4" stroke="#979797" stroke-width="1" fill="none" stroke-linecap="square"></path>
+                                <path d="M60.5,115.5 L89.5,139.5" id="Line-5" stroke="#979797" stroke-width="1" fill="none" stroke-linecap="square"></path>
+                                <path d="M102.535714,152.535714 L90.4642857,140.464286" id="Line-6" stroke="#979797" stroke-width="3" fill="none" stroke-linecap="square"></path>
+                                <path d="M148.5,163.513514 L119.5,128.486486" id="Line-7" stroke="#979797" stroke-width="1" fill="none" stroke-linecap="square"></path>
+                                <path d="M116.461538,111.514706 L127.538462,79.4852941" id="Line-8" stroke="#979797" stroke-width="1" fill="none" stroke-linecap="square"></path>
+                                <path d="M74.4318182,71.44 L92.4962121,92.472" id="Line-9" stroke="#979797" stroke-width="1" fill="none" stroke-linecap="square"></path>
+                                <path d="M61.5,108.5 L94.5,97.5" id="Line-10" stroke="#979797" stroke-width="1" fill="none" stroke-linecap="square"></path>
+                                <path d="M36.4615385,85.5 L47.5384615,109.5" id="Line-11" stroke="#979797" stroke-width="0.6" fill="none" stroke-linecap="square"></path>
+                                <path d="M115,125 L161.48913,128.5" id="Line-Copy" stroke="#D8D8D8" stroke-width="1" fill="none" stroke-linecap="square"></path>
+                                <path d="M106.555556,112.5 L99.4444444,102.5" id="Line-2" stroke="#979797" stroke-width="2" fill="none" stroke-linecap="square"></path>
+                                <path d="M91.4615385,134.5 L102.538462,128.5" id="Line-3" stroke="#979797" stroke-width="3" fill="none" stroke-linecap="square"></path>
+                                <path d="M71.4615385,145.5 L82.5384615,139.5" id="Line-3-Copy" stroke="#979797" stroke-width="3" fill="none" stroke-linecap="square"></path>
+                                <ellipse id="Oval-4" stroke="none" fill="#267BB5" fill-rule="evenodd" cx="111.5" cy="122" rx="12.5" ry="12"></ellipse>
+                                <circle id="Oval-5" stroke="none" fill="#D8D8D8" fill-rule="evenodd" cx="153" cy="98" r="6"></circle>
+                                <circle id="Oval-5-Copy-16" stroke="none" fill="#D8D8D8" fill-rule="evenodd" cx="79" cy="6" r="6"></circle>
+                                <circle id="Oval-5-Copy" stroke="none" fill="#D8D8D8" fill-rule="evenodd" cx="157" cy="131" r="6"></circle>
+                                <circle id="Oval-5-Copy-3" stroke="none" fill="#267BB5" fill-rule="evenodd" cx="105" cy="158" r="6"></circle>
+                                <circle id="Oval-5-Copy-4" stroke="none" fill="#267BB5" fill-rule="evenodd" cx="87" cy="138" r="6"></circle>
+                                <circle id="Oval-5-Copy-5" stroke="none" fill="#D8D8D8" fill-rule="evenodd" cx="80" cy="116" r="6"></circle>
+                                <circle id="Oval-5-Copy-14" stroke="none" fill="#267BB5" fill-rule="evenodd" cx="66.5" cy="145.5" r="6.5"></circle>
+                                <circle id="Oval-5-Copy-10" stroke="none" fill="#D8D8D8" fill-rule="evenodd" cx="33" cy="78" r="8"></circle>
+                                <circle id="Oval-5-Copy-11" stroke="none" fill="#D8D8D8" fill-rule="evenodd" cx="8" cy="130" r="8"></circle>
+                                <circle id="Oval-5-Copy-12" stroke="none" fill="#D8D8D8" fill-rule="evenodd" cx="35" cy="160" r="8"></circle>
+                                <circle id="Oval-5-Copy-6" stroke="none" fill="#D8D8D8" fill-rule="evenodd" cx="96" cy="94" r="9"></circle>
+                                <circle id="Oval-5-Copy-9" stroke="none" fill="#D8D8D8" fill-rule="evenodd" cx="52" cy="111" r="9"></circle>
+                                <circle id="Oval-5-Copy-7" stroke="none" fill="#D8D8D8" fill-rule="evenodd" cx="76" cy="70" r="9"></circle>
+                                <circle id="Oval-5-Copy-8" stroke="none" fill="#D8D8D8" fill-rule="evenodd" cx="129" cy="73" r="9"></circle>
+                            </g>
+                        </g>
+                        <rect id="Rectangle-2" fill="#E0F0EF" mask="url(#mask-2)" x="-30.5753425" y="16.4707135" width="67.9235669" height="172.214799"></rect>
+                        <rect id="Rectangle-3" fill="#267BB5" mask="url(#mask-2)" x="-4.7388535" y="-3.17446634" width="255.898089" height="19.8404146"></rect>
+                        <ellipse id="Oval-3" fill="#FF934F" mask="url(#mask-2)" cx="9.90109519" cy="8.37073805" rx="2.05675811" ry="1.99627302"></ellipse>
+                        <ellipse id="Oval-3-Copy" fill="#F8E71C" mask="url(#mask-2)" cx="17.0997486" cy="8.37073805" rx="2.05675811" ry="1.99627302"></ellipse>
+                        <ellipse id="Oval-3-Copy-2" fill="#C2E812" mask="url(#mask-2)" cx="23.7842124" cy="8.37073805" rx="2.05675811" ry="1.99627302"></ellipse>
+                        <rect id="Rectangle" fill="#E0F0EF" mask="url(#mask-2)" x="193.643836" y="16.4707135" width="80.9680365" height="190.833095"></rect>
+                        <g id="lines" mask="url(#mask-2)" stroke="#267BB5" stroke-linecap="square">
+                            <g transform="translate(206.000000, 26.000000)" id="line">
+                                <path d="M0.203703704,0.5 L32.7962963,0.5"></path>
+                                <path d="M0.203703704,20.5 L32.7962963,20.5"></path>
+                                <path d="M0.203703704,9.5 L32.7962963,9.5"></path>
+                                <path d="M0.203703704,29.5 L32.7962963,29.5"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Screenshot:-Publication">
+                        <rect id="Rectangle-7" fill-opacity="0.2" fill="#267BB5" filter="url(#filter-3)" x="56" y="32" width="248.637931" height="154" rx="11"></rect>
+                        <g id="Highlight:-Publication">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-4"></use>
+                            </mask>
+                            <use id="Mask" fill="#FFFFFF" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                            <g id="Publication" mask="url(#mask-6)">
+                                <g transform="translate(0.000000, -16.730159)">
+                                    <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                        <rect id="Background" fill="#E0F0EF" x="0.215126787" y="0" width="147.94768" height="349.358632"></rect>
+                                    </g>
+                                    <path d="M0.49137931,65.4444444 L126.284483,65.4444444" id="Line-27" stroke="#267BB5" stroke-width="1" fill="none" stroke-linecap="square"></path>
+                                    <rect id="Rectangle-8" stroke="none" fill="#267BB5" fill-rule="evenodd" x="19.6551724" y="44.9365079" width="61.3448276" height="21"></rect>
+                                    <text id="Layout" stroke="none" fill="none" font-family="Roboto Condensed" font-size="18" font-weight="normal">
+                                        <tspan x="24" y="60" fill="#FFFFFF">Layout</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Slider" mask="url(#mask-6)">
+                                <g transform="translate(21.620690, 72.825397)">
+                                    <ellipse id="Oval-2" stroke="none" fill="#267BB5" fill-rule="evenodd" cx="72.2327586" cy="7.38095238" rx="7.37068966" ry="7.38095238"></ellipse>
+                                    <path d="M0.49137931,7.38095238 L79.112069,7.38095238" id="Line-33" stroke="#267BB5" stroke-width="1" fill="none" stroke-linecap="square"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

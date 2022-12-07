@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="780px" height="322px" viewBox="0 0 780 335" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Screenshot</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="532" height="320" rx="11" style="stroke-width:1;stroke:gray"></rect>
+        <circle id="path-3" cx="88" cy="88" r="88"></circle>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <circle id="path-6" cx="42" cy="42" r="42"></circle>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-652.000000, -2495.000000)" id="Row-3">
+            <g transform="translate(227.000000, 2327.000000)">
+                <g id="Screenshot" transform="translate(425.000000, 98.000000)">
+                    <!--rect id="Background" fill-opacity="0.2" fill="#E0F0EF" x="190" y="0" width="590" height="556"></rect-->
+                    <g id="Rectangle-3" transform="translate(0.000000, 84.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                        <rect id="Rectangle-2" fill="#E0F0EF" mask="url(#mask-2)" x="-65.5890411" y="35.2076677" width="177.589041" height="368.125"></rect>
+                        <rect fill="#267BB5" mask="url(#mask-2)" x="-10.1656051" y="-6.78571429" width="548.942675" height="42.4107143"></rect>
+                        <text x="10" y="22" fill="white">Corpus Description</text>
+                        <!--ellipse id="Oval-3" fill="#FF934F" mask="url(#mask-2)" cx="27.1082803" cy="18.6607143" rx="6.77707006" ry="6.78571429"></ellipse>
+                        <ellipse id="Oval-3-Copy" fill="#F8E71C" mask="url(#mask-2)" cx="50.8280255" cy="18.6607143" rx="6.77707006" ry="6.78571429"></ellipse>
+                        <ellipse id="Oval-3-Copy-2" fill="#C2E812" mask="url(#mask-2)" cx="72.8535032" cy="18.6607143" rx="6.77707006" ry="6.78571429"></ellipse-->
+                    </g>
+                    <path d="M150.5,196.5 L230.5,196.5" id="Line-25" stroke="#9B9B9B" stroke-width="4" stroke-linecap="square"></path>
+                    <path d="M150.5,242.5 L230.5,242.5" id="Line-25-Copy-2" stroke="#9B9B9B" stroke-width="4" stroke-linecap="square"></path>
+                    <path d="M150.5,218.25 L230.5,218.25" id="Line-25-Copy" stroke="#9B9B9B" stroke-width="4" stroke-linecap="square"></path>
+                    <path d="M150.5,264.25 L230.5,264.25" id="Line-25-Copy-3" stroke="#9B9B9B" stroke-width="4" stroke-linecap="square"></path>
+                    <g id="#3" transform="translate(274.000000, 293.000000)">
+                        <circle id="Oval" fill="#98C04B" cx="14.5" cy="14.5" r="14.5"></circle>
+                        <text id="2" font-family="Roboto Condensed" font-size="18" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="10" y="21">3</tspan>
+                        </text>
+                    </g>
+                    <g id="#2" transform="translate(147.000000, 182.000000)">
+                        <circle id="Oval" fill="#98C04B" cx="14.5" cy="14.5" r="14.5"></circle>
+                        <text id="2" font-family="Roboto Condensed" font-size="18" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="10" y="21">2</tspan>
+                        </text>
+                    </g>
+                    <g id="#1" transform="translate(29.000000, 257.000000)">
+                        <circle id="Oval" fill="#98C04B" cx="14.5" cy="14.5" r="14.5"></circle>
+                        <text id="1" font-family="Roboto Condensed" font-size="18" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="10" y="21">1</tspan>
+                        </text>
+                    </g>
+                    <g id="Highlight:-Pie-Chart" transform="translate(320.000000, 216.000000)">
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFFFFF" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <g id="Pie" mask="url(#mask-5)">
+                            <g transform="translate(-1.000000, -24.000000)">
+                                <rect id="Background" fill="#E0F0EF" x="0.996496355" y="0.392405063" width="208.673816" height="491.598523"></rect>
+                                <g id="pie-chart-f" stroke-width="1" fill="none" transform="translate(46.000000, 68.000000)">
+                                    <path d="M89,48.8496241 C86.7649624,71.3918296 67.7426065,89 44.6115288,89 C19.9725815,89 0,69.0274185 0,44.3884712 C0,21.2573935 17.6081704,2.23503759 40.1503759,0 L40.1503759,48.8496241 L89,48.8496241 Z M49.0726817,39.9273183 L49.0726817,0 C70.1805623,2.12640338 86.8735966,18.8194377 89,39.9273183 L49.0726817,39.9273183 Z" id="Shape" fill="#267BB5" fill-rule="nonzero"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Highlight:-Bar-Graph" transform="translate(395.000000, 160.000000)">
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-6"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFFFFF" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                        <g id="Graph" mask="url(#mask-8)">
+                            <g transform="translate(-2.000000, -11.000000)">
+                                <rect id="Background" fill="#267BB5" x="1.91381516" y="0.187429248" width="99.9283064" height="234.808238"></rect>
+                                <g id="Graph" stroke-width="1" fill="none" transform="translate(0.000000, 39.166667)">
+                                    <rect id="Rectangle-14" fill="#E0F0EF" x="0.478873239" y="0" width="51.7183099" height="8.59756098"></rect>
+                                    <rect id="Rectangle-14-Copy" fill="#E0F0EF" x="0.478873239" y="14.3292683" width="68.4788732" height="8.59756098"></rect>
+                                    <rect id="Rectangle-14-Copy-2" fill="#E0F0EF" x="0" y="28.6585366" width="86.1971831" height="8.59756098"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
