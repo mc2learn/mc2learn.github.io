@@ -49,6 +49,10 @@ h3 {
     font-weight: bold;
     color:orange ;
 }
+p {
+    font-size: 1.2em;
+    line-height: 1.5;
+}
 .clearing {
   height: 1px;
   clear: both;
